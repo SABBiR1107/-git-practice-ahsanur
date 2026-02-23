@@ -10,22 +10,31 @@ This project is a simple calculator built with Python to practice Git and GitHub
 
 ---
 
-## Features
+## 🚀 Features
 - Addition
 - Subtraction
+- Multipy
+- Divide
 
 ---
 
-## Project Structure
-project/
-│── main.py  
-│── utils.py  
-│── README.md  
-│── project-description.md  
+## 📂 Project Structure
+git-practice-ahsanur/
+
+│
+├── README.md
+├── .gitignore
+│
+├── src/
+│   ├── main.py
+│   └── utils.py
+│
+└── docs/
+    └── project-description.md
 
 ---
 
-##How to Run
+## ▶️ How to Run
 
 ```bash
 python main.py
